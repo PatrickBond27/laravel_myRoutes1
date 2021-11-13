@@ -21,12 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-
-            <a href="/login"> Login</a>
-
-            <a href="/about"> About</a>
-
-            <a href="/register"> Register</a>
-
+            login
+            <a href="/"> Profile</a>
     </body>
 </html>
